@@ -13,6 +13,10 @@ seaborn = "==0.12.2"
 tqdm = "*"
 ipywidgets = "*"
 jupyter = "*"
+scikit-learn = "*"
+pyarrow = "*"
+pandas = "*"
+lets-plot = "*"
 
 [dev-packages]
 ipykernel = "*"
